@@ -16,7 +16,7 @@ public class CowTimer {
 	 */
 
 	/* 4. Complete the main method of the CowTimerRunner class */
-
+	
 	private int minutes;
 
 	public void setTime(int minutes) {
